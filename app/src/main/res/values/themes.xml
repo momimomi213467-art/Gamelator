@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.GameLator.PS5" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/ps5_accent</item>
+        <item name="colorPrimaryVariant">@color/ps5_accent_light</item>
+        <item name="colorOnPrimary">@color/ps5_text_primary</item>
+        <item name="colorSecondary">@color/ps5_accent</item>
+        <item name="android:statusBarColor">@color/ps5_background</item>
+        <item name="android:navigationBarColor">@color/ps5_background</item>
+        <item name="android:windowBackground">@color/ps5_background</item>
+        <item name="android:textColorPrimary">@color/ps5_text_primary</item>
+        <item name="android:textColorSecondary">@color/ps5_text_secondary</item>
+    </style>
+</resources>
